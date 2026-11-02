@@ -209,4 +209,4 @@ The AI Powered Talent Management Platform demonstrates how artificial intelligen
 
 ---
 
-**Developed as an AWS Cloud Project.**.
+**Developed by ADITYA JOSHI.**.
